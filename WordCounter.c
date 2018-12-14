@@ -1,5 +1,5 @@
 
-#pragma warning(disable:4996)
+#pragma warning(disable:4996)// this line if fro warning of scanf in my Visual Studio
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
